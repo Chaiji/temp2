@@ -1,0 +1,18 @@
+{
+    "contents" : "\n\nchi.probability <- function(x,df = 1, n = 1){\n\n}\n",
+    "created" : 1462959579435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2289170699",
+    "id" : "FDE05897",
+    "lastKnownWriteTime" : 1462959785,
+    "path" : "~/temp2/R/chi.probability.R",
+    "project_path" : "R/chi.probability.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
