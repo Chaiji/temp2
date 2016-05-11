@@ -1,12 +1,12 @@
 {
-    "contents" : "\n\nchi.probability <- function(x,df = 1, n = 1){\n\n}\n",
+    "contents" : "#' @title This is the title of the package\n\nchi.probability <- function(x,df = 1, n = 1){\n\n}\n",
     "created" : 1462959579435.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2289170699",
+    "hash" : "4231833794",
     "id" : "FDE05897",
-    "lastKnownWriteTime" : 1462959785,
+    "lastKnownWriteTime" : 1462960616,
     "path" : "~/temp2/R/chi.probability.R",
     "project_path" : "R/chi.probability.R",
     "properties" : {
